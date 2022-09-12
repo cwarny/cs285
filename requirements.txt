@@ -1,0 +1,6 @@
+numpy
+torch
+gym
+cv2
+pandas
+seaborn
