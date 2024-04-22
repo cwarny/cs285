@@ -16,3 +16,10 @@ Each homework consists in a notebook where everything is built from scratch and 
 ## Run
 
 * `jupyter notebook`
+* `tensorboard --logdir runs`
+
+## Misc
+
+* Turn gifs into infinite loops:
+    * Get [gifsicle](https://www.lcdf.org/gifsicle/)
+    * `gifsicle -bl <path to gif>`

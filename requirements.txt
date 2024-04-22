@@ -1,6 +1,7 @@
 numpy
 torch
 gym
-cv2
 pandas
-seaborn
+tensorboard
+moviepy
+"gym[classic_control]"
